@@ -13,7 +13,7 @@
 1. Operators Teach Kubernetes New Tricks
 2. Running Operators
 3. Operators at the Kubernetes Interface
-4. The Operator Framework
+4. [The Operator Framework](ch04/ch04_the_operator_framework.md)
 5. Sample Application: Visitors Site
 6. Adapter Operators
 7. Operators in Go with the Operator SDK
