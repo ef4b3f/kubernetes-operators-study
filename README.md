@@ -16,7 +16,7 @@
 4. The Operator Framework
 5. Sample Application: Visitors Site
 6. Adapter Operators
-7. Oprators in Go with the Operator SDK
+7. Operators in Go with the Operator SDK
 8. Operator Lifecycle Manager
 9. Operator Philosophy
 10. Getting Involved
